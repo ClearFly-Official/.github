@@ -6,7 +6,7 @@ The Stable Approach aircraft profiles, the Discord bot and the ClearFly VA liver
 
 [Offical Discord server](https://discord.gg/UK89j4dtrP)
 
-[Liveries](https://github.com/ClearFly-Official/ClearFlyVA-Liveries/ZIP%20FILES)
+[Liveries](https://github.com/ClearFly-Official/ClearFlyVA-Liveries/tree/main/ZIP%20Files)
 
 [ClearBot](https://github.com/ClearFly-Official/ClearBot)
 
